@@ -9,8 +9,7 @@ Fer instance, have had some experiences with SVN and some other gawdawful IBM ve
 
 |File or Folder     |  Description                               | Linux |  Pi   | micon |
 |-------------------|--------------------------------------------|:-----:|:-----:|:-----:|
-| OCS-1             | Main directory for OCS controller (all)    |  [_]  |  [_]  |  [_]  |
-| OCS-1/code/       | Main directory for OCS controller (all)    |  [_]  |  [_]  |  [_]  |
-|-------------------|--------------------------------------------|:-----:|:-----:|:-----:|
+| OCS-1             | Main directory for OCS controller (all)    |  [√]  |  [_]  |  [_]  |
+| OCS-1/code/       | Main directory for prototype code    |  [√]  |  [√]  |  [_]  
 
 ---
